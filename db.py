@@ -27,4 +27,3 @@ class Portfolios(Base):
     Shares_Outstanding = Column(Integer)
     Benchmark_Level = Column(Integer)
     Time_of_update = Column(DateTime)
-
